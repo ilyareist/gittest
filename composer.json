@@ -1,0 +1,7 @@
+{
+    "name": "root/test",
+    "require": {
+	"php": ">=7.0.0",
+	"facebook/php-sdk": "3.2.*"	
+     }
+}
